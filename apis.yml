@@ -31,6 +31,10 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: GitHubOrganization
+    url: https://github.com/cummins
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cummins-inc
   - type: Website
     url: https://www.cummins.com
   - type: About
