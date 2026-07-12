@@ -32,6 +32,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/cummins-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/cummins
   - type: LinkedIn
