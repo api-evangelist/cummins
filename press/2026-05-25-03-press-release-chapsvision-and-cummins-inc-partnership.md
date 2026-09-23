@@ -1,7 +1,9 @@
 ---
 title: Press release -ChapsVision & Cummins, Inc. partnership
 url: https://www.linkedin.com/posts/chapsvision_press-release-chapsvision-cummins-inc-activity-7394747574886309890-YF0_
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cummins" press release artificial intelligence'
 position: 3
 source: serpapi-google

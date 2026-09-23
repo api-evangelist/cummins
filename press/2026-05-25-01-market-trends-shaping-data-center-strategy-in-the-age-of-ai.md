@@ -1,7 +1,9 @@
 ---
 title: Market trends shaping data center strategy in the age of AI
 url: https://www.cummins.com/en-na/news/2026/05/06/market-trends-shaping-data-center-strategy-age-ai
-date: '2026-05-25'
+published: '2026-05-06'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Cummins" press release artificial intelligence'
 position: 1
 source: serpapi-google

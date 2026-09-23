@@ -1,7 +1,9 @@
 ---
 title: Cummins Newsroom | Cummins Inc.
 url: https://www.cummins.com/pl-eu/mp-resource/en-na/news?content-type=newsroom_article&topics=5916&page=0
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cummins" press release artificial intelligence'
 position: 4
 source: serpapi-google
